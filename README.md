@@ -44,8 +44,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/Juan13052001/Base-Apparel-coming-soon-page)
+- Live Site URL: [Live Site](https://juan13052001.github.io/Base-Apparel-coming-soon-page/)
 
 ## My process
 
@@ -97,5 +97,5 @@ form.addEventListener("submit", (e) => {
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Juan13052001](https://www.frontendmentor.io/profile/Juan13052001)
 
